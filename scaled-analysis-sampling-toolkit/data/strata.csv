@@ -1,0 +1,4 @@
+stratum,population_size,sample_size,errors_found
+high_confidence,30000,190,1
+medium_confidence,15000,230,8
+low_confidence,5000,180,36

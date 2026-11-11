@@ -1,0 +1,200 @@
+{"id": "T-0001", "text": "Suspicious login attempts on search-index for account CUST-2186, possible unauthorized access.", "true_category": "security_alert", "true_priority": 1}
+{"id": "T-0002", "text": "mobile-gateway is unavailable since this morning, error E-500 on every request from CUST-9313.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0003", "text": "search-index is unavailable since this morning, error E-500 on every request from CUST-4943. It is also slow and the invoice looks wrong.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0004", "text": "CUST-4657 needs a password reset for mobile-gateway.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0005", "text": "CUST-1812 was charged twice, please refund the invoice for mobile-gateway.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0006", "text": "The billing-db is down and customers get error E-504.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0007", "text": "Invoice from mobile-gateway shows the wrong amount for CUST-2688.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0008", "text": "How do I export data from billing-db? Asked by CUST-9974.", "true_category": "feature_question", "true_priority": 4}
+{"id": "T-0009", "text": "CUST-9133 was charged twice, please refund the invoice for mobile-gateway.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0010", "text": "Please grant CUST-6924 permission to use search-index.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0011", "text": "payments-api is very slow, latency above 5 seconds for CUST-9604.", "true_category": "performance", "true_priority": 3}
+{"id": "T-0012", "text": "CUST-2934 reported a phishing email that links to billing-db.", "true_category": "security_alert", "true_priority": 2}
+{"id": "T-0013", "text": "Dashboards from auth-service take minutes to load for CUST-7909. It is also slow and the invoice looks wrong.", "true_category": "performance", "true_priority": 3}
+{"id": "T-0014", "text": "How do I export data from mobile-gateway? Asked by CUST-6572.", "true_category": "feature_question", "true_priority": 4}
+{"id": "T-0015", "text": "Invoice from mobile-gateway shows the wrong amount for CUST-2126.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0016", "text": "CUST-1994 reported a phishing email that links to report-engine.", "true_category": "security_alert", "true_priority": 2}
+{"id": "T-0017", "text": "CUST-6685 reported a phishing email that links to billing-db. It is also slow and the invoice looks wrong.", "true_category": "security_alert", "true_priority": 2}
+{"id": "T-0018", "text": "Please grant CUST-9088 permission to use auth-service. It is also slow and the invoice looks wrong.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0019", "text": "Suspicious login attempts on report-engine for account CUST-7519, possible unauthorized access.", "true_category": "security_alert", "true_priority": 1}
+{"id": "T-0020", "text": "CUST-7580 needs a password reset for auth-service.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0021", "text": "Dashboards from mobile-gateway take minutes to load for CUST-7804.", "true_category": "performance", "true_priority": 3}
+{"id": "T-0022", "text": "Is it possible to schedule reports in auth-service? Question from CUST-2359.", "true_category": "feature_question", "true_priority": 4}
+{"id": "T-0023", "text": "payments-api is very slow, latency above 5 seconds for CUST-3987.", "true_category": "performance", "true_priority": 3}
+{"id": "T-0024", "text": "The search-index is down and customers get error E-503.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0025", "text": "How do I export data from search-index? Asked by CUST-7521.", "true_category": "feature_question", "true_priority": 4}
+{"id": "T-0026", "text": "report-engine is unavailable since this morning, error E-504 on every request from CUST-2019.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0027", "text": "Dashboards from auth-service take minutes to load for CUST-6571.", "true_category": "performance", "true_priority": 3}
+{"id": "T-0028", "text": "The mobile-gateway is down and customers get error E-502. It is also slow and the invoice looks wrong.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0029", "text": "Suspicious login attempts on payments-api for account CUST-7164, possible unauthorized access.", "true_category": "security_alert", "true_priority": 1}
+{"id": "T-0030", "text": "CUST-8768 reported a phishing email that links to mobile-gateway.", "true_category": "security_alert", "true_priority": 2}
+{"id": "T-0031", "text": "Please grant CUST-6109 permission to use search-index. It is also slow and the invoice looks wrong.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0032", "text": "report-engine is unavailable since this morning, error E-503 on every request from CUST-8841.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0033", "text": "auth-service is very slow, latency above 5 seconds for CUST-3401.", "true_category": "performance", "true_priority": 3}
+{"id": "T-0034", "text": "report-engine is unavailable since this morning, error E-500 on every request from CUST-5278.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0035", "text": "Dashboards from auth-service take minutes to load for CUST-4654.", "true_category": "performance", "true_priority": 3}
+{"id": "T-0036", "text": "search-index is very slow, latency above 5 seconds for CUST-4275.", "true_category": "performance", "true_priority": 3}
+{"id": "T-0037", "text": "Suspicious login attempts on payments-api for account CUST-8737, possible unauthorized access.", "true_category": "security_alert", "true_priority": 1}
+{"id": "T-0038", "text": "Is it possible to schedule reports in search-index? Question from CUST-6974. It is also slow and the invoice looks wrong.", "true_category": "feature_question", "true_priority": 4}
+{"id": "T-0039", "text": "The search-index is down and customers get error E-502.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0040", "text": "CUST-2389 was charged twice, please refund the invoice for search-index.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0041", "text": "report-engine is unavailable since this morning, error E-502 on every request from CUST-8832.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0042", "text": "Please grant CUST-8588 permission to use payments-api.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0043", "text": "The auth-service is down and customers get error E-502.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0044", "text": "CUST-6741 needs a password reset for mobile-gateway.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0045", "text": "CUST-2683 was charged twice, please refund the invoice for payments-api.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0046", "text": "Dashboards from auth-service take minutes to load for CUST-1458.", "true_category": "performance", "true_priority": 3}
+{"id": "T-0047", "text": "Suspicious login attempts on mobile-gateway for account CUST-5249, possible unauthorized access.", "true_category": "security_alert", "true_priority": 1}
+{"id": "T-0048", "text": "report-engine is very slow, latency above 5 seconds for CUST-8506.", "true_category": "performance", "true_priority": 3}
+{"id": "T-0049", "text": "Invoice from mobile-gateway shows the wrong amount for CUST-9713.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0050", "text": "CUST-1064 was charged twice, please refund the invoice for search-index.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0051", "text": "auth-service is very slow, latency above 5 seconds for CUST-2971.", "true_category": "performance", "true_priority": 3}
+{"id": "T-0052", "text": "CUST-5071 reported a phishing email that links to payments-api.", "true_category": "security_alert", "true_priority": 2}
+{"id": "T-0053", "text": "The mobile-gateway is down and customers get error E-504.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0054", "text": "billing-db is unavailable since this morning, error E-502 on every request from CUST-5541.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0055", "text": "Invoice from mobile-gateway shows the wrong amount for CUST-9572.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0056", "text": "Suspicious login attempts on search-index for account CUST-7826, possible unauthorized access.", "true_category": "security_alert", "true_priority": 1}
+{"id": "T-0057", "text": "Please grant CUST-8017 permission to use payments-api. It is also slow and the invoice looks wrong.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0058", "text": "Is it possible to schedule reports in payments-api? Question from CUST-6999.", "true_category": "feature_question", "true_priority": 4}
+{"id": "T-0059", "text": "Dashboards from auth-service take minutes to load for CUST-7525.", "true_category": "performance", "true_priority": 3}
+{"id": "T-0060", "text": "auth-service is very slow, latency above 5 seconds for CUST-9447.", "true_category": "performance", "true_priority": 3}
+{"id": "T-0061", "text": "CUST-2510 needs a password reset for billing-db.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0062", "text": "mobile-gateway is unavailable since this morning, error E-504 on every request from CUST-8216.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0063", "text": "Please grant CUST-9392 permission to use mobile-gateway.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0064", "text": "The payments-api is down and customers get error E-500.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0065", "text": "Dashboards from auth-service take minutes to load for CUST-5237.", "true_category": "performance", "true_priority": 3}
+{"id": "T-0066", "text": "Invoice from report-engine shows the wrong amount for CUST-2465.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0067", "text": "How do I export data from search-index? Asked by CUST-5406.", "true_category": "feature_question", "true_priority": 4}
+{"id": "T-0068", "text": "How do I export data from billing-db? Asked by CUST-4643. It is also slow and the invoice looks wrong.", "true_category": "feature_question", "true_priority": 4}
+{"id": "T-0069", "text": "payments-api is unavailable since this morning, error E-503 on every request from CUST-7844.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0070", "text": "Suspicious login attempts on payments-api for account CUST-2793, possible unauthorized access.", "true_category": "security_alert", "true_priority": 1}
+{"id": "T-0071", "text": "Suspicious login attempts on auth-service for account CUST-6111, possible unauthorized access.", "true_category": "security_alert", "true_priority": 1}
+{"id": "T-0072", "text": "CUST-9193 was charged twice, please refund the invoice for billing-db.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0073", "text": "CUST-1605 reported a phishing email that links to payments-api. It is also slow and the invoice looks wrong.", "true_category": "security_alert", "true_priority": 2}
+{"id": "T-0074", "text": "How do I export data from mobile-gateway? Asked by CUST-5025.", "true_category": "feature_question", "true_priority": 4}
+{"id": "T-0075", "text": "report-engine is unavailable since this morning, error E-504 on every request from CUST-9944.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0076", "text": "Please grant CUST-4761 permission to use report-engine.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0077", "text": "How do I export data from search-index? Asked by CUST-1891.", "true_category": "feature_question", "true_priority": 4}
+{"id": "T-0078", "text": "The report-engine is down and customers get error E-503.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0079", "text": "mobile-gateway is unavailable since this morning, error E-503 on every request from CUST-4968.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0080", "text": "auth-service is unavailable since this morning, error E-502 on every request from CUST-5407.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0081", "text": "CUST-5005 reported a phishing email that links to billing-db. It is also slow and the invoice looks wrong.", "true_category": "security_alert", "true_priority": 2}
+{"id": "T-0082", "text": "Suspicious login attempts on billing-db for account CUST-1017, possible unauthorized access.", "true_category": "security_alert", "true_priority": 1}
+{"id": "T-0083", "text": "billing-db is unavailable since this morning, error E-502 on every request from CUST-5066.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0084", "text": "The billing-db is down and customers get error E-500.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0085", "text": "payments-api is unavailable since this morning, error E-503 on every request from CUST-5984.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0086", "text": "The report-engine is down and customers get error E-504.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0087", "text": "CUST-1717 needs a password reset for billing-db.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0088", "text": "Is it possible to schedule reports in report-engine? Question from CUST-9581.", "true_category": "feature_question", "true_priority": 4}
+{"id": "T-0089", "text": "CUST-2394 was charged twice, please refund the invoice for report-engine. It is also slow and the invoice looks wrong.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0090", "text": "Dashboards from payments-api take minutes to load for CUST-8395.", "true_category": "performance", "true_priority": 3}
+{"id": "T-0091", "text": "How do I export data from report-engine? Asked by CUST-9016.", "true_category": "feature_question", "true_priority": 4}
+{"id": "T-0092", "text": "CUST-9617 needs a password reset for report-engine. It is also slow and the invoice looks wrong.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0093", "text": "Is it possible to schedule reports in billing-db? Question from CUST-5350.", "true_category": "feature_question", "true_priority": 4}
+{"id": "T-0094", "text": "report-engine is very slow, latency above 5 seconds for CUST-9092.", "true_category": "performance", "true_priority": 3}
+{"id": "T-0095", "text": "report-engine is unavailable since this morning, error E-503 on every request from CUST-1765.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0096", "text": "How do I export data from payments-api? Asked by CUST-6435.", "true_category": "feature_question", "true_priority": 4}
+{"id": "T-0097", "text": "Is it possible to schedule reports in mobile-gateway? Question from CUST-1204.", "true_category": "feature_question", "true_priority": 4}
+{"id": "T-0098", "text": "Please grant CUST-4566 permission to use report-engine.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0099", "text": "CUST-8640 reported a phishing email that links to search-index.", "true_category": "security_alert", "true_priority": 2}
+{"id": "T-0100", "text": "CUST-8748 was charged twice, please refund the invoice for billing-db. It is also slow and the invoice looks wrong.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0101", "text": "CUST-5401 needs a password reset for mobile-gateway.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0102", "text": "mobile-gateway is very slow, latency above 5 seconds for CUST-3322.", "true_category": "performance", "true_priority": 3}
+{"id": "T-0103", "text": "CUST-2846 reported a phishing email that links to auth-service.", "true_category": "security_alert", "true_priority": 2}
+{"id": "T-0104", "text": "Dashboards from search-index take minutes to load for CUST-1406.", "true_category": "performance", "true_priority": 3}
+{"id": "T-0105", "text": "Please grant CUST-3305 permission to use search-index.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0106", "text": "Please grant CUST-1028 permission to use payments-api.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0107", "text": "CUST-1192 reported a phishing email that links to payments-api.", "true_category": "security_alert", "true_priority": 2}
+{"id": "T-0108", "text": "CUST-7437 reported a phishing email that links to billing-db.", "true_category": "security_alert", "true_priority": 2}
+{"id": "T-0109", "text": "CUST-5508 was charged twice, please refund the invoice for billing-db.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0110", "text": "Suspicious login attempts on payments-api for account CUST-3439, possible unauthorized access.", "true_category": "security_alert", "true_priority": 1}
+{"id": "T-0111", "text": "CUST-4110 reported a phishing email that links to mobile-gateway.", "true_category": "security_alert", "true_priority": 2}
+{"id": "T-0112", "text": "CUST-9998 needs a password reset for report-engine.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0113", "text": "The report-engine is down and customers get error E-504.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0114", "text": "Dashboards from search-index take minutes to load for CUST-3085.", "true_category": "performance", "true_priority": 3}
+{"id": "T-0115", "text": "Please grant CUST-5190 permission to use billing-db.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0116", "text": "Is it possible to schedule reports in search-index? Question from CUST-5928.", "true_category": "feature_question", "true_priority": 4}
+{"id": "T-0117", "text": "Is it possible to schedule reports in payments-api? Question from CUST-3648. It is also slow and the invoice looks wrong.", "true_category": "feature_question", "true_priority": 4}
+{"id": "T-0118", "text": "Invoice from mobile-gateway shows the wrong amount for CUST-8421.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0119", "text": "Please grant CUST-4999 permission to use auth-service. It is also slow and the invoice looks wrong.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0120", "text": "Suspicious login attempts on billing-db for account CUST-7034, possible unauthorized access.", "true_category": "security_alert", "true_priority": 1}
+{"id": "T-0121", "text": "CUST-7272 was charged twice, please refund the invoice for payments-api.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0122", "text": "CUST-6541 was charged twice, please refund the invoice for search-index.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0123", "text": "Please grant CUST-3062 permission to use mobile-gateway.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0124", "text": "CUST-5070 was charged twice, please refund the invoice for payments-api.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0125", "text": "Is it possible to schedule reports in search-index? Question from CUST-1357.", "true_category": "feature_question", "true_priority": 4}
+{"id": "T-0126", "text": "Please grant CUST-1002 permission to use mobile-gateway. It is also slow and the invoice looks wrong.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0127", "text": "Invoice from search-index shows the wrong amount for CUST-2786.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0128", "text": "report-engine is very slow, latency above 5 seconds for CUST-2392.", "true_category": "performance", "true_priority": 3}
+{"id": "T-0129", "text": "The auth-service is down and customers get error E-502.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0130", "text": "Suspicious login attempts on report-engine for account CUST-9654, possible unauthorized access.", "true_category": "security_alert", "true_priority": 1}
+{"id": "T-0131", "text": "How do I export data from payments-api? Asked by CUST-5920.", "true_category": "feature_question", "true_priority": 4}
+{"id": "T-0132", "text": "CUST-4663 was charged twice, please refund the invoice for search-index.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0133", "text": "The mobile-gateway is down and customers get error E-503.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0134", "text": "Suspicious login attempts on search-index for account CUST-9962, possible unauthorized access.", "true_category": "security_alert", "true_priority": 1}
+{"id": "T-0135", "text": "Please grant CUST-4180 permission to use payments-api.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0136", "text": "Is it possible to schedule reports in payments-api? Question from CUST-4732.", "true_category": "feature_question", "true_priority": 4}
+{"id": "T-0137", "text": "Suspicious login attempts on search-index for account CUST-6538, possible unauthorized access.", "true_category": "security_alert", "true_priority": 1}
+{"id": "T-0138", "text": "CUST-5785 reported a phishing email that links to auth-service.", "true_category": "security_alert", "true_priority": 2}
+{"id": "T-0139", "text": "CUST-4283 was charged twice, please refund the invoice for auth-service.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0140", "text": "search-index is very slow, latency above 5 seconds for CUST-5342.", "true_category": "performance", "true_priority": 3}
+{"id": "T-0141", "text": "Suspicious login attempts on mobile-gateway for account CUST-4068, possible unauthorized access.", "true_category": "security_alert", "true_priority": 1}
+{"id": "T-0142", "text": "Please grant CUST-3398 permission to use report-engine.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0143", "text": "The payments-api is down and customers get error E-502. It is also slow and the invoice looks wrong.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0144", "text": "The search-index is down and customers get error E-504.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0145", "text": "The billing-db is down and customers get error E-502.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0146", "text": "Invoice from payments-api shows the wrong amount for CUST-7203.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0147", "text": "CUST-1047 reported a phishing email that links to auth-service. It is also slow and the invoice looks wrong.", "true_category": "security_alert", "true_priority": 2}
+{"id": "T-0148", "text": "search-index is unavailable since this morning, error E-500 on every request from CUST-4398.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0149", "text": "CUST-8757 reported a phishing email that links to payments-api.", "true_category": "security_alert", "true_priority": 2}
+{"id": "T-0150", "text": "Invoice from auth-service shows the wrong amount for CUST-6967.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0151", "text": "CUST-5063 needs a password reset for report-engine.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0152", "text": "CUST-8603 needs a password reset for search-index. It is also slow and the invoice looks wrong.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0153", "text": "auth-service is unavailable since this morning, error E-500 on every request from CUST-6555.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0154", "text": "Suspicious login attempts on billing-db for account CUST-5515, possible unauthorized access.", "true_category": "security_alert", "true_priority": 1}
+{"id": "T-0155", "text": "How do I export data from payments-api? Asked by CUST-2757.", "true_category": "feature_question", "true_priority": 4}
+{"id": "T-0156", "text": "Please grant CUST-9085 permission to use billing-db.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0157", "text": "CUST-3479 needs a password reset for payments-api.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0158", "text": "CUST-2294 reported a phishing email that links to search-index.", "true_category": "security_alert", "true_priority": 2}
+{"id": "T-0159", "text": "CUST-2060 needs a password reset for auth-service.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0160", "text": "Please grant CUST-2723 permission to use auth-service.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0161", "text": "Suspicious login attempts on auth-service for account CUST-7898, possible unauthorized access.", "true_category": "security_alert", "true_priority": 1}
+{"id": "T-0162", "text": "Is it possible to schedule reports in auth-service? Question from CUST-3177.", "true_category": "feature_question", "true_priority": 4}
+{"id": "T-0163", "text": "CUST-5815 was charged twice, please refund the invoice for report-engine.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0164", "text": "Invoice from billing-db shows the wrong amount for CUST-5265.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0165", "text": "auth-service is very slow, latency above 5 seconds for CUST-3512.", "true_category": "performance", "true_priority": 3}
+{"id": "T-0166", "text": "CUST-7489 was charged twice, please refund the invoice for billing-db.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0167", "text": "report-engine is very slow, latency above 5 seconds for CUST-8600.", "true_category": "performance", "true_priority": 3}
+{"id": "T-0168", "text": "The search-index is down and customers get error E-502.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0169", "text": "auth-service is unavailable since this morning, error E-500 on every request from CUST-1825.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0170", "text": "CUST-9399 was charged twice, please refund the invoice for payments-api.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0171", "text": "Please grant CUST-2733 permission to use report-engine.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0172", "text": "Is it possible to schedule reports in auth-service? Question from CUST-7040.", "true_category": "feature_question", "true_priority": 4}
+{"id": "T-0173", "text": "The billing-db is down and customers get error E-500.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0174", "text": "CUST-4033 reported a phishing email that links to report-engine.", "true_category": "security_alert", "true_priority": 2}
+{"id": "T-0175", "text": "The payments-api is down and customers get error E-504.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0176", "text": "CUST-9749 needs a password reset for search-index. It is also slow and the invoice looks wrong.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0177", "text": "Dashboards from report-engine take minutes to load for CUST-7713.", "true_category": "performance", "true_priority": 3}
+{"id": "T-0178", "text": "Is it possible to schedule reports in search-index? Question from CUST-6117.", "true_category": "feature_question", "true_priority": 4}
+{"id": "T-0179", "text": "CUST-6960 reported a phishing email that links to search-index.", "true_category": "security_alert", "true_priority": 2}
+{"id": "T-0180", "text": "Please grant CUST-8113 permission to use auth-service.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0181", "text": "CUST-6975 needs a password reset for payments-api.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0182", "text": "payments-api is very slow, latency above 5 seconds for CUST-3334.", "true_category": "performance", "true_priority": 3}
+{"id": "T-0183", "text": "CUST-9265 needs a password reset for mobile-gateway.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0184", "text": "CUST-2099 reported a phishing email that links to auth-service. It is also slow and the invoice looks wrong.", "true_category": "security_alert", "true_priority": 2}
+{"id": "T-0185", "text": "CUST-1712 needs a password reset for billing-db.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0186", "text": "Please grant CUST-2413 permission to use payments-api.", "true_category": "access_request", "true_priority": 4}
+{"id": "T-0187", "text": "CUST-7627 was charged twice, please refund the invoice for report-engine.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0188", "text": "Dashboards from auth-service take minutes to load for CUST-1683.", "true_category": "performance", "true_priority": 3}
+{"id": "T-0189", "text": "CUST-3016 was charged twice, please refund the invoice for search-index.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0190", "text": "How do I export data from payments-api? Asked by CUST-6311. It is also slow and the invoice looks wrong.", "true_category": "feature_question", "true_priority": 4}
+{"id": "T-0191", "text": "Invoice from mobile-gateway shows the wrong amount for CUST-7882.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0192", "text": "Dashboards from search-index take minutes to load for CUST-8320.", "true_category": "performance", "true_priority": 3}
+{"id": "T-0193", "text": "payments-api is very slow, latency above 5 seconds for CUST-8623.", "true_category": "performance", "true_priority": 3}
+{"id": "T-0194", "text": "Invoice from auth-service shows the wrong amount for CUST-7559. It is also slow and the invoice looks wrong.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0195", "text": "Dashboards from search-index take minutes to load for CUST-2502.", "true_category": "performance", "true_priority": 3}
+{"id": "T-0196", "text": "CUST-2347 was charged twice, please refund the invoice for payments-api.", "true_category": "billing", "true_priority": 3}
+{"id": "T-0197", "text": "Suspicious login attempts on payments-api for account CUST-3231, possible unauthorized access. It is also slow and the invoice looks wrong.", "true_category": "security_alert", "true_priority": 1}
+{"id": "T-0198", "text": "The auth-service is down and customers get error E-502.", "true_category": "outage", "true_priority": 1}
+{"id": "T-0199", "text": "payments-api is very slow, latency above 5 seconds for CUST-5132.", "true_category": "performance", "true_priority": 3}
+{"id": "T-0200", "text": "Invoice from search-index shows the wrong amount for CUST-5164.", "true_category": "billing", "true_priority": 3}
