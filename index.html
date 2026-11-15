@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Analytic LLM Methodology Portfolio</title>
+<style>
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;max-width:900px;margin:0 auto;padding:2rem 1rem;color:#1f2937;background:#f9fafb}
+h1{color:#111827;border-bottom:3px solid #6366f1;padding-bottom:.5rem}
+.card{background:#fff;border:1px solid #e5e7eb;border-radius:10px;padding:1.5rem;margin:1rem 0;box-shadow:0 1px 3px rgba(0,0,0,.08)}
+.card h2{margin-top:0;color:#4f46e5}
+p,li{line-height:1.65}
+a{color:#4f46e5;text-decoration:none}a:hover{text-decoration:underline}
+.badge{display:inline-block;background:#eef2ff;color:#4f46e5;padding:.15rem .6rem;border-radius:999px;font-size:.8rem;margin-right:.4rem}
+code{background:#f3f4f6;padding:.1rem .4rem;border-radius:4px}
+</style>
+</head>
+<body>
+<h1>Analytic LLM Methodology Portfolio</h1>
+<p><span class="badge">Python 3.11+</span><span class="badge">MIT</span><span class="badge">CI</span></p>
+<p>Three projects answering one question from three angles: how do you put an LLM into an analytic pipeline and stay honest about it? One measures the model, one bounds it, one statistically audits it. All three run offline and reproducibly with deterministic mocks.</p>
+<p><strong>Author:</strong> <a href="https://www.linkedin.com/in/yazan-aljabari-878202139/">Yazan Aljabari</a></p>
+<h2>Projects</h2>
+<div class="card"><h2><a href="analytic-llm-benchmark/">Analytic LLM Benchmark</a></h2><p>Measure — a benchmark for LLMs used in analytic work: 20 authored cases (16 legitimate + 4 should-decline controls), 3 scenario types, 5 evaluation areas, 13 failure modes.</p></div>
+<div class="card"><h2><a href="llm-analytics-pipeline/">LLM Analytics Pipeline</a></h2><p>Bound — batch triage/enrichment of IT tickets with strict JSON + schema validation, refusal detection, grounding checks, bounded retries, circuit breaker, idempotent resume.</p></div>
+<div class="card"><h2><a href="scaled-analysis-sampling-toolkit/">Scaled Analysis Sampling Toolkit</a></h2><p>Audit — sample-size planning, stratified review allocation, Wilson/Agresti-Coull intervals, go/no-go decision rule, acceptance sampling, drift detection and calibration.</p></div>
+<h2>Quick start</h2>
+<pre>cd analytic-llm-benchmark &amp;&amp; python -m pytest -q &amp;&amp; python -m benchmark
+cd ../llm-analytics-pipeline &amp;&amp; python -m pytest -q &amp;&amp; python -m pipeline
+cd ../scaled-analysis-sampling-toolkit &amp;&amp; python -m pytest -q &amp;&amp; python -m sampling report</pre>
+<p>See the <a href="README.md">README</a> for full documentation, methodology, results, and limitations.</p>
+</body>
+</html>
